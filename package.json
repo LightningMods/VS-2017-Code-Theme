@@ -1,0 +1,21 @@
+{
+    "name": "vs-2017",
+    "displayName": "vs-2017",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VS 2017 Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/VS 2017 Theme-color-theme.json"
+            }
+        ]
+    }
+}
